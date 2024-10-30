@@ -1,0 +1,35 @@
+{
+  "name": "TokenList",
+  "timestamp": "2023-09-16T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x1234567890123456789012345678901234567890",
+      "name": "展播鸡鸡币TEST0",
+      "symbol": "ZBTEST0",
+      "decimals": 18,
+      "logoURI": "https://flame-bsc.shop/assets/img/Flame.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2345678901234567890123456789012345678901",
+      "name": "展播鸡鸡TEST1",
+      "symbol": "ZBTEST1",
+      "decimals": 18,
+      "logoURI": "https://flame-bsc.shop/assets/img/Flame.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xbf1f246c913b3d4f2fda290f9507357c03fc91cf",
+      "name": "展播鸡鸡TEST2",
+      "symbol": "ZBTEST2",
+      "decimals": 18,
+      "logoURI": "https://flame-bsc.shop/assets/img/Flame.png"
+    }
+  ]
+}
